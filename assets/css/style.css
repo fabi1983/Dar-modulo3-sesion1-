@@ -1,0 +1,15 @@
+body{
+    
+    background: linear-gradient(135deg, rgb(9, 31, 141) 23%, rgb(204, 230, 245) 100%); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+#card_incripcion{
+    background-color: azure;
+    color: black;
+width: 20%;
+    text-align: center;
+}
