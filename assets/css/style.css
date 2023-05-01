@@ -7,9 +7,22 @@ body{
     
 }
 
-#card_incripcion{
+/* para centrar el formulario con css */
+#card_inscripcion_padre{
+    position:relative;
+}
+
+
+#card_inscripcion{
     background-color: azure;
     color: black;
-width: 20%;
     text-align: center;
+   
 }
+
+#card_inscripcion{
+   position: absolute;
+    left: 50%;
+    transform: translate(-50%)
+}
+
